@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89adb939-97db-4efe-8d04-161068474d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gettyimages2/refactored/GettyImagesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gettyimages2/refactored/GettyImagesWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gettyimages2/refactored/GettyImagesWebDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0102c721-c873-49b5-96d9-caa54d857058-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/07192d17-0468-4f2a-b317-8f2f4ef6cb4a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/136eecff-b8d5-4999-8603-3cd79495da7e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/20b6cea2-29e8-401d-8c8e-86c15b2fadba-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/3a7737aa-0b61-4e3f-9343-9b4582adf474-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/58c005a5-206b-4f24-9ef1-586949c19d06-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/651da664-bf8f-497c-8f38-6638aea157f6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/708d93fe-a863-41d3-beb0-78997fef6428-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/a9a3552e-2539-448c-8bf1-6225d1e12745-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/bc68eeb0-7891-47c3-a0b3-d10f403395e6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/bd9c50ef-f8df-44d4-8082-d81ff47c24a4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/executor.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bc7V1iMwj3JOqIPinhB74vmGvk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="allure serve allure-results " />
+      <command value="mvn allure: serve" />
+      <command value="mvn allure:serve" />
+      <command value="mvn allure serve allure-results " />
+      <command value="mvn allure:serve allure-results clean" />
+      <command value="mvn allure:report" />
+      <command value="mvn clean test" />
+      <command value="mvn allure:serve " />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GettyImagesWebDriverTest">
+    <configuration name="GettyImagesWebDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GettyImagesTestAllure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gettyimages2.refactored.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gettyimages2.refactored" />
+      <option name="MAIN_CLASS_NAME" value="gettyimages2.refactored.GettyImagesWebDriverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GettyImagesWebDriverTest.authorizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GettyImagesTestAllure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gettyimages2.refactored.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gettyimages2.refactored" />
+      <option name="MAIN_CLASS_NAME" value="gettyimages2.refactored.GettyImagesWebDriverTest" />
+      <option name="METHOD_NAME" value="authorizationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GettyImagesWebDriverTest.signOut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GettyImagesTestAllure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gettyimages2.refactored.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gettyimages2.refactored" />
+      <option name="MAIN_CLASS_NAME" value="gettyimages2.refactored.GettyImagesWebDriverTest" />
+      <option name="METHOD_NAME" value="signOut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GettyImagesWebDriverTest" />
+        <item itemvalue="JUnit.GettyImagesWebDriverTest.signOut" />
+        <item itemvalue="JUnit.GettyImagesWebDriverTest.authorizationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89adb939-97db-4efe-8d04-161068474d63" name="Changes" comment="" />
+      <created>1657193542174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657193542174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
