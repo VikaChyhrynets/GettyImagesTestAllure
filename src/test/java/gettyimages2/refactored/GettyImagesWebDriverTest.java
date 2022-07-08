@@ -3,13 +3,9 @@ package gettyimages2.refactored;
 import io.qameta.allure.*;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.*;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.logging.LogEntries;
 import org.openqa.selenium.logging.LogEntry;
 import org.openqa.selenium.logging.LogType;
-import org.openqa.selenium.support.events.EventFiringWebDriver;
-
-import java.util.EventListener;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
