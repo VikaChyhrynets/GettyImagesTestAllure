@@ -1,0 +1,1 @@
+{"uuid":"d8b274db-a634-413e-8416-0870d3498c5a","name":"Test 3: Remove photos from cart","children":["5f9c742c-d1ad-474d-840b-91e0d064a2e3"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1657299804150,"stop":1657299804163}],"links":[],"start":1657299802581,"stop":1657299804163}
